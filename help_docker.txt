@@ -1,0 +1,23 @@
+1. first you need to load docker image with this command:
+
+>> docker load -i <path to image tar file>
+
+2. then you must run docker file
+
+>> docker run -p 8000:5000 td-bert-bl:v2.1
+
+
+**CONGRATS! . . . Now your news topic detection is runnig and you can send your request
+
+for sending request you must use this forms:
+
+<your machine IP>:8000/predict 
+
+your data input must be like this shape as JSON and POST it:
+
+   {
+      "text": " ***** YOUR TEXT **** "
+    }
+
+
+ 

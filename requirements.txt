@@ -1,0 +1,4 @@
+flask==2.0.2
+torch==1.10.1
+transformers==4.12.5
+langdetect==1.0.9

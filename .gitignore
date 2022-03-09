@@ -1,0 +1,7 @@
+.idea
+New_folder
+src/heBERT/flax_model.msgpack
+src/heBERT/pytorch_model.bin
+src/Output_models/
+src/input_data/
+test.py
