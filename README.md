@@ -1,9 +1,9 @@
-# topic_detection_heb_BERT
+# topic_detection_h_BERT
 news topic detection based on BERT
 
 ## what is data?
 its data was crawled form this sites:
-1. israelhayom
+1. hayom
 2. walla
 3. ynet
 4. maariv
